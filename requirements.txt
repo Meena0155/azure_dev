@@ -3,3 +3,7 @@
 # azure-monitor-opentelemetry
 
 azure-functions
+pandas
+openpyxl
+azure-storage-blob
+azure-identity
